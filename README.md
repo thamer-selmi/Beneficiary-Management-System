@@ -90,15 +90,6 @@ Beneficiary-Management-System/
    python main.py
    ```
 
-## Screenshots
-
-Screenshots will be added here. If you add screenshots to the repository, place them in a `screenshots/` directory and embed them like this:
-
-```markdown
-![Application dashboard](screenshots/dashboard.png)
-```
-
-Use screenshots containing demo data only. Do not publish personal, financial, or other sensitive information.
 
 ## Notes
 
